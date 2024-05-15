@@ -2,7 +2,6 @@
 ##
 
 - 🔭 I’m currently third-year student at [**FPT University Ho Chi Minh Campus**](https://hcmuni.fpt.edu.vn/), my major is **SAP**
-- 👨‍💻 All of my projects are available at [**my repositories**](https://github.com/phuuthanh2003?tab=repositories)
 - 😅 I'm a newbie in coding 🐧
 
 - ⚡ Fun fact **I love eating, eating and eating**
